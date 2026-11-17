@@ -345,6 +345,77 @@
       "version": "1"
     },
     {
+      "description": "Ozocraft Remix by darianknight, CC-BY-SA-4.0, https://modrinth.com/resourcepack/ozocraft-remix (v1.21+.R17, retrieved 2026-11-17)",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "a1fcc21c3877364c244b1913fb7e453037ebaf6e4a48c10feec3bd3a90a421ea",
+          "size": 9900,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "486fb7097f2fef21d274f7b850d503b46ff0d203948ecee378ebc2d06e8d27d2",
+          "size": 523918,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "LICENSE-converter.txt",
+          "path": "LICENSE-converter.txt",
+          "sha256": "d76e44fafe4908950b3c8bdd35d1a6e959c6bc9e8bc34c5d2b049fb456103380",
+          "size": 1070,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/LICENSE-converter.txt"
+        },
+        {
+          "asset": "LICENSE-source.txt",
+          "path": "LICENSE-source.txt",
+          "sha256": "30d9095bd13c955d5c182f3b6040511b0a58b38d03c8a2ad21546371b33035eb",
+          "size": 315,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/LICENSE-source.txt"
+        },
+        {
+          "asset": "PORT-README.txt",
+          "path": "PORT-README.txt",
+          "sha256": "fbd1d9498483af9b31bd1c8916e1f3e10d4f2242450702d58a1132e4aa05cb39",
+          "size": 1008,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/PORT-README.txt"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "a76801dc39a27366d3db3cd181acb851156098d712255e7bd99db1f31047b626",
+          "size": 27731,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/TexturePack.pck"
+        },
+        {
+          "asset": "icon.png",
+          "path": "icon.png",
+          "sha256": "fcae11c0bc79f63d1a6ce010ab1c36bcd5e3579fcacf00c7409974ecba33123d",
+          "size": 9860,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/icon.png"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "6b1c10d87ff96a8e370452249168e0f73e57ed7b59de7c7568d6993073570ee4",
+          "size": 1807,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/languages.loc"
+        },
+        {
+          "asset": "manifest.json",
+          "path": "manifest.json",
+          "sha256": "78316c8900badff99a40cb4e2e51b4a478f78331db62cfaf78bd32f559930724",
+          "size": 340709,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/ozocraft-remix-2105-v1/manifest.json"
+        }
+      ],
+      "id": "ozocraft-remix-2105",
+      "name": "Ozocraft Remix",
+      "version": "1"
+    },
+    {
       "description": "Pixel Perfection Extended",
       "files": [
         {
