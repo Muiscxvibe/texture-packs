@@ -343,6 +343,42 @@
       "id": "love-and-tolerance-2014-r4",
       "name": "Love And Tolerance",
       "version": "1"
+    },
+    {
+      "description": "Pixel Perfection Extended",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "2333676634eb6282bd2f427ea77b463f36febecc02f6271ff778b8eb4f082b67",
+          "size": 2474,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pixel-perfection-extended-2017-r3-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "cfc284195ed22551a5783631fc984e5626c532bb3d42500efbec206cdf6d7ba9",
+          "size": 593398,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pixel-perfection-extended-2017-r3-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "2db5a0afe299957e133390b718106e48b5494ea7670573ef643173387ad4e1b9",
+          "size": 80317,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pixel-perfection-extended-2017-r3-v1/TexturePack.pck"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "921c1b7df5d2bc1a89b070061611a846fa009e61d6fe40b8162755bb104cd1e8",
+          "size": 1967,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pixel-perfection-extended-2017-r3-v1/languages.loc"
+        }
+      ],
+      "id": "pixel-perfection-extended-2017-r3",
+      "name": "Pixel Perfection Extended",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
