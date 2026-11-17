@@ -207,6 +207,70 @@
       "id": "dandelion-2015-r3",
       "name": "Dandelion",
       "version": "1"
+    },
+    {
+      "description": "Faithful Lce",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "58362e956270b210271165a6d21d05881d75463fcc393feb28f3fccadf27b857",
+          "size": 68729,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "f4892742df82e5b6aa3a56910a51d70f82bc2736ca0225c2cb001ef4cc1a1c5e",
+          "size": 528292,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "LICENSE-converter.txt",
+          "path": "LICENSE-converter.txt",
+          "sha256": "d76e44fafe4908950b3c8bdd35d1a6e959c6bc9e8bc34c5d2b049fb456103380",
+          "size": 1070,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/LICENSE-converter.txt"
+        },
+        {
+          "asset": "LICENSE-source.txt",
+          "path": "LICENSE-source.txt",
+          "sha256": "3526ffe2fc0bdb57ec9fdf227f7de72cb15df9ccc940f79d2e60bafe5d3254c6",
+          "size": 4189,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/LICENSE-source.txt"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "364e6f80e46341e548ee571a0737f1a5c75a081838379326018254c4a5ab5c8b",
+          "size": 91362,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/TexturePack.pck"
+        },
+        {
+          "asset": "icon.png",
+          "path": "icon.png",
+          "sha256": "0b3dd7348fe871093d91616ad5e2eec63d0fecfbe1c042cc0a89fb3a9c1d4cc2",
+          "size": 68689,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/icon.png"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "2e09d44036b488ae2299400c18cba647d4ab9f9353b020e90971e26c16a1916e",
+          "size": 1897,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/languages.loc"
+        },
+        {
+          "asset": "manifest.json",
+          "path": "manifest.json",
+          "sha256": "2f9788ea7710dbfe53f7edabd8b5bf1707b78dc89d6eed14ecfb3523c1de33b2",
+          "size": 59941,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/faithful-lce-v1/manifest.json"
+        }
+      ],
+      "id": "faithful-lce",
+      "name": "Faithful Lce",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
