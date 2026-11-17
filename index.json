@@ -35,6 +35,42 @@
       "id": "bare-bones-2001",
       "name": "Bare Bones",
       "version": "1"
+    },
+    {
+      "description": "Bare Bones Compat",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "aec144ced8bc8a9d96edea2bab7ca908851e1e2a4a2947efef7d69d185f2ec0f",
+          "size": 11313165,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-compat-2016-r1-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "5855cefec34804ce1fb3c156562e3807bc16ecca539404d2b7dc6a008a5c470a",
+          "size": 1631452,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-compat-2016-r1-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "b6f2a7a887b1e27496589fecc881fd2de520b14ff8baa62060091d85151319ed",
+          "size": 136215,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-compat-2016-r1-v1/TexturePack.pck"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "a6d8c33c4c83d067ddd0582b82dde82e843967b8de46992ebdf26157d86c5335",
+          "size": 1907,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-compat-2016-r1-v1/languages.loc"
+        }
+      ],
+      "id": "bare-bones-compat-2016-r1",
+      "name": "Bare Bones Compat",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
