@@ -271,6 +271,42 @@
       "id": "faithful-lce",
       "name": "Faithful Lce",
       "version": "1"
+    },
+    {
+      "description": "Invictus",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "9e0c5ccd2bac1a3839db07a107605e51c35be27af7bbe62631c9eb77ac582da6",
+          "size": 981,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/invictus-2018-r1-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "0faed9290c7a94c69dda1549ba9ef0c9cbc4144ce62860706d6c3925bfcbcdcd",
+          "size": 749596,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/invictus-2018-r1-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "d56c2af85e9f9c183ead62aa3794a1173334ef6b5184c20ae8805792985a88f0",
+          "size": 7449,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/invictus-2018-r1-v1/TexturePack.pck"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "d3d7b54848f9f9a66cc7a443344197e5a5828ed11de92f906a60a02696a87644",
+          "size": 1897,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/invictus-2018-r1-v1/languages.loc"
+        }
+      ],
+      "id": "invictus-2018-r1",
+      "name": "Invictus",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
