@@ -1,5 +1,20 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "temporary test item",
+      "files": [
+        {
+          "path": "TestPack.pck",
+          "sha256": "8108310dbf39a07d8d744d80f741368e2a41e00e42bb11737e1d38ac389c136f",
+          "size": 200000,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/mirror-selftest-v1/TestPack.pck"
+        }
+      ],
+      "id": "mirror-selftest",
+      "name": "Mirror self-test",
+      "version": "1"
+    }
+  ],
   "repo": "texture-packs",
   "schema": 1,
   "type": "texture-pack"
