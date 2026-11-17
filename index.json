@@ -107,6 +107,70 @@
       "id": "before-2013-r4",
       "name": "Before",
       "version": "1"
+    },
+    {
+      "description": "Before Lce",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "6bc9f4de184b0f3ea83e506fbe12b5a73fac0dff5f1f3117b6e1f01a100b14a4",
+          "size": 1139,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "6fc1be37520ba0073303d0c62d717d38cbfe4dfb2c622ab5f9d5a5a8ea8f01a0",
+          "size": 537762,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "LICENSE-converter.txt",
+          "path": "LICENSE-converter.txt",
+          "sha256": "d76e44fafe4908950b3c8bdd35d1a6e959c6bc9e8bc34c5d2b049fb456103380",
+          "size": 1070,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/LICENSE-converter.txt"
+        },
+        {
+          "asset": "LICENSE-source.txt",
+          "path": "LICENSE-source.txt",
+          "sha256": "70e78c71aacaafd957baa1c372b910113be6a2beab0568bad9e17eb5d0261b45",
+          "size": 88,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/LICENSE-source.txt"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "674ccebea260bf1205fdcd0cd12ac2f334a03559bb1263b233379db5398ee70d",
+          "size": 88286,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/TexturePack.pck"
+        },
+        {
+          "asset": "icon.png",
+          "path": "icon.png",
+          "sha256": "9e33a465b92055ad02c400079e35618edbde956fdf94d418e094159c65450f1d",
+          "size": 1101,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/icon.png"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "f7404c8f22ccca16fca6d7fdb99d4951841e61dfcf0d19c5a3a8c40e73a49a41",
+          "size": 1827,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/languages.loc"
+        },
+        {
+          "asset": "manifest.json",
+          "path": "manifest.json",
+          "sha256": "30b9b7d63e90514c98bd3590f328e2f3913b460798f0d88d07ab6107f78d490d",
+          "size": 4444,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/before-lce-v1/manifest.json"
+        }
+      ],
+      "id": "before-lce",
+      "name": "Before Lce",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
