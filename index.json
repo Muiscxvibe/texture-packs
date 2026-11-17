@@ -171,6 +171,42 @@
       "id": "before-lce",
       "name": "Before Lce",
       "version": "1"
+    },
+    {
+      "description": "Dandelion",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "2301cd61a2dae91fdd7641b5806ae26c95c60c23483cce94c4cdceae6ef7aa65",
+          "size": 1147,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/dandelion-2015-r3-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "8ef9b9187cb84fe3252b949970cfa287397204c0874bee568ea6476642e450c0",
+          "size": 492889,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/dandelion-2015-r3-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "a438e10fb876b39dc544e7b6fee91eee8e0595d177552b5cee240c087ec2f770",
+          "size": 65685,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/dandelion-2015-r3-v1/TexturePack.pck"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "1e362e45ad7360c2222ff056cc7b29f41b906a41587c87a39521a628f3fd37bf",
+          "size": 1947,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/dandelion-2015-r3-v1/languages.loc"
+        }
+      ],
+      "id": "dandelion-2015-r3",
+      "name": "Dandelion",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
