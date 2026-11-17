@@ -514,6 +514,77 @@
       "id": "pixel-perfection-lce",
       "name": "Pixel Perfection Lce",
       "version": "1"
+    },
+    {
+      "description": "Pixel Perfection Fidelity by souralien, CC-BY-4.0, https://modrinth.com/resourcepack/pixel-perfection-fidelity (vR2.0-88.97, retrieved 2026-11-17)",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "b3e5a73af31505a184833e279ac36d120659d3cbd672c1c9f02a7604ac156f5f",
+          "size": 10899,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "28911e7b5ede9e6e6511fade112291779f87d5a0cde005c1d2191fa9945034cb",
+          "size": 408175,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "LICENSE-converter.txt",
+          "path": "LICENSE-converter.txt",
+          "sha256": "d76e44fafe4908950b3c8bdd35d1a6e959c6bc9e8bc34c5d2b049fb456103380",
+          "size": 1070,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/LICENSE-converter.txt"
+        },
+        {
+          "asset": "LICENSE-source.txt",
+          "path": "LICENSE-source.txt",
+          "sha256": "ee038e0a3760e4bb92cd062e8aaa579915c5cd835c400235972ff9d7ce7e9ea8",
+          "size": 317,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/LICENSE-source.txt"
+        },
+        {
+          "asset": "PORT-README.txt",
+          "path": "PORT-README.txt",
+          "sha256": "06864c0f8641e980fa5f825fbae94a9e6357a3f0e4c529ed341885889b79db70",
+          "size": 1035,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/PORT-README.txt"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "e7522128fe76d63acea6205ab12a0aa3dab05180e8bc5b4631bba2a09251fe2d",
+          "size": 99511,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/TexturePack.pck"
+        },
+        {
+          "asset": "icon.png",
+          "path": "icon.png",
+          "sha256": "0c088068c869dcd0f8696f88c719249543ca0f7a24128edd928d11ef0b75d286",
+          "size": 10857,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/icon.png"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "fcadb4b579fe88ae121727a419ee3bb927224fb9daa46fd858ff3bc7c48f15f4",
+          "size": 1917,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/languages.loc"
+        },
+        {
+          "asset": "manifest.json",
+          "path": "manifest.json",
+          "sha256": "3ea9c8f99c1aa3c8fcec9de967fb243f64dfebf39df420b9ab56a548d6c2afc1",
+          "size": 346974,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/pp-fidelity-2106-v1/manifest.json"
+        }
+      ],
+      "id": "pp-fidelity-2106",
+      "name": "Pixel Perfection Fidelity",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
