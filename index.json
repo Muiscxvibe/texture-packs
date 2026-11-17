@@ -307,6 +307,42 @@
       "id": "invictus-2018-r1",
       "name": "Invictus",
       "version": "1"
+    },
+    {
+      "description": "Love And Tolerance",
+      "files": [
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "a69dd320d0c646af170e5e99ffb7e17c1621976bdbf4570b8bc37a9f6c6722b5",
+          "size": 4755,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/love-and-tolerance-2014-r4-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "9e2d9c52748307e1aaafe662349964e9b62ab9db061083177913bc420d5c2c79",
+          "size": 516363,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/love-and-tolerance-2014-r4-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "2bea02d18dffd4eb9b28049bd0863a70c33f4d25bbf7782c90ab80f4131de465",
+          "size": 63928,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/love-and-tolerance-2014-r4-v1/TexturePack.pck"
+        },
+        {
+          "asset": "languages.loc",
+          "path": "languages.loc",
+          "sha256": "46418e900d1e88f90494e8c12b51f0548c7c708c1020c49f23344818e08a7a2b",
+          "size": 1847,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/love-and-tolerance-2014-r4-v1/languages.loc"
+        }
+      ],
+      "id": "love-and-tolerance-2014-r4",
+      "name": "Love And Tolerance",
+      "version": "1"
     }
   ],
   "repo": "texture-packs",
