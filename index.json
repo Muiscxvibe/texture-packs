@@ -1,5 +1,42 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Bare Bones",
+      "files": [
+        {
+          "asset": "BareBonesLocale.bin",
+          "path": "BareBonesLocale.bin",
+          "sha256": "3d45f8f999fbf1fb77c530acfb2f0124fa9ebb645c2eee3394e6a2ec36ac9259",
+          "size": 1767,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-2001-v1/BareBonesLocale.bin"
+        },
+        {
+          "asset": "Data__media.arc",
+          "path": "Data/media.arc",
+          "sha256": "aec144ced8bc8a9d96edea2bab7ca908851e1e2a4a2947efef7d69d185f2ec0f",
+          "size": 11313165,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-2001-v1/Data__media.arc"
+        },
+        {
+          "asset": "Data__x16Data.pck",
+          "path": "Data/x16Data.pck",
+          "sha256": "4b984b47d3bc78b97e3612849b7cd715f016749ba76ec3d9a3e33c3f1a2ff33a",
+          "size": 2829992,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-2001-v1/Data__x16Data.pck"
+        },
+        {
+          "asset": "TexturePack.pck",
+          "path": "TexturePack.pck",
+          "sha256": "3a3cce3ce8eebdd9781ca1a4a9ab17e13ac04e306b93034a1961b6bd7a808fc6",
+          "size": 136264,
+          "url": "https://github.com/Muiscxvibe/texture-packs/releases/download/bare-bones-2001-v1/TexturePack.pck"
+        }
+      ],
+      "id": "bare-bones-2001",
+      "name": "Bare Bones",
+      "version": "1"
+    }
+  ],
   "repo": "texture-packs",
   "schema": 1,
   "type": "texture-pack"
